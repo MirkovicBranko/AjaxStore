@@ -10,7 +10,6 @@ function ucitajPodatke() {
     }
   });
   xhr.open("GET", "https://fakestoreapi.com/products");
-  //   xhr.open("POST","https://fakestoreapi.com/products")
   xhr.send();
   console.log("text!");
 }
