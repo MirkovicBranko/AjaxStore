@@ -1,0 +1,13 @@
+#container{
+    display: flex;
+    justify-content: center;
+    flex-wrap:  wrap;
+}
+
+.artikal{
+    width: 40%;
+    margin-right:40px;
+}
+.sklika{
+    width: 100%;
+}
